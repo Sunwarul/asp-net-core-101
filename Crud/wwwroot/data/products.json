@@ -1,0 +1,33 @@
+[
+  {
+    "Id": 1,
+    "Name": "Product 1",
+    "Description": "Product 1 D",
+    "Price": 100,
+    "Ratings": [
+      5,
+      5,
+      5,
+      4,
+      2
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Product 2",
+    "Description": "Product 2 D",
+    "Price": 200,
+    "Ratings": [
+      2
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Product 3",
+    "Description": "Product 3 D",
+    "Price": 300,
+    "Ratings": [
+      2
+    ]
+  }
+]
